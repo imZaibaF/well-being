@@ -1,0 +1,130 @@
+/* Contact section */
+.contact {
+  padding: 80px 40px; /* Reduce padding for smaller screens */
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.banner {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.banner-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.reservation_form_box,
+.social-media,
+.contact-details {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.reservation_form_box h1,
+.social-media h2,
+.contact-details h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.reservation_form_box p,
+.social-media p,
+.contact-details p {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.feedback-link {
+  color: #3366cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.feedback-link:hover {
+  text-decoration: underline;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  margin: 0 10px;
+}
+
+.social-icon:hover {
+  color: #3366cc;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  bottom: 150%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.social-icon:hover .tooltip {
+  display: block;
+}
+
+/* Media Query for screens smaller than 768px (mobile view) */
+@media (max-width: 767px) {
+  .contact {
+    padding: 40px 20px; /* Adjust padding for smaller screens */
+    flex-direction: column; /* Stack sections vertically */
+    align-items: flex-start; /* Align items to the start of the container */
+  }
+
+  .container {
+    padding: 0; /* Remove horizontal padding for smaller screens */
+    justify-content: center; /* Center content vertically */
+  }
+
+  .banner {
+    margin-bottom: 20px; /* Reduce margin for smaller screens */
+  }
+
+  .reservation_form_box,
+  .social-media,
+  .contact-details {
+    width: 100%; /* Full width for smaller screens */
+  }
+
+  .reservation_form_box,
+  .social-media,
+  .contact-details {
+    padding: 20px; /* Reduce padding for smaller screens */
+  }
+}

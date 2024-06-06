@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "Free 24 X 7 X 365 MENTAL HEALTH SUPPORT",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "PAID CONSULTATION",
+          "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "SKILL ACADEMY",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+        },
+        {
+          "id": 4,
+          "image": "./fast_delivery.svg",
+          "title": "Raise Awareness & Build Advocacy",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "https://lifecarecounselling.in/wp-content/uploads/2018/12/individual-counselling.jpg",
+          "title": "Self-Discovery Journey: Unveiling Your True Self",
+          "category": "Self-Exploration"
+        },
+        {
+          "id": 2,
+          "image": "https://st2.depositphotos.com/30854078/42244/v/450/depositphotos_422445976-stock-illustration-guy-girl-had-fight-girl.jpg",
+          "title": "Family Dynamics: Building Stronger Bonds",
+          "category": "Family Counseling"
+        },
+        {
+          "id": 3,
+          "image": "https://innerspacetherapy.in/wp-content/uploads/2023/04/Untitled-design-64-1024x576.png",
+          "title": "Trauma Recovery Roadmap: Healing from Within",
+          "category": "Trauma Counseling"
+        },
+        {
+          "id": 4,
+          "image": "https://www.shutterstock.com/image-vector/female-psychotherapist-has-individual-session-260nw-1913769628.jpg",
+          "title": "Anxiety Alleviation: Techniques for Inner Calm",
+          "category": "Anxiety Management"
+        } 
+        
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./Mamatha.jpeg",
+          "name": "Mamatha",
+          "designation": "Psychologist"
+        },
+        {
+          "id": 2,
+          "image": "./Varun.jpeg",
+          "name": "Vinod",
+          "designation": "Psychologist"
+        },
+        {
+          "id": 3,
+          "image": "./Kshiti.jpeg",
+          "name": "Kshiti",
+          "designation": "Psychologist"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review_1.png",
+          "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review_2.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review_3.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "10",
+          "title": "Areas of Counselling"
+        },
+        {
+          "id": 2,
+          "number": "5",
+          "title": "members in a tem"
+        },
+        {
+          "id": 3,
+          "number": "12",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "500+",
+          "title": "Solved Queries"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "image": "./gallery/g1.jpeg"
+        },
+        {
+          "id": 2,
+          "image": "./gallery/g2.jpeg"
+        },
+        {
+          "id": 3,
+          "image": "./gallery/g3.jpeg"
+        },
+        {
+          "id": 4,
+          "image": "./gallery/g4.jpeg"
+        },
+        {
+          "id": 5,
+          "image": "./gallery/g5.jpeg"
+        },
+        {
+          "id": 6,
+          "image": "./gallery/g6.jpeg"
+        },
+        {
+          "id": 7,
+          "image": "./gallery/g7.jpeg"
+        },
+        {
+          "id": 8,
+          "image": "./gallery/g8.jpeg"
+        },
+        {
+          "id": 9,
+          "image": "./gallery/g9.jpeg"
+        },
+        {
+          "id": 10,
+          "image": "./gallery/g10.jpeg"
+        },
+        {
+          "id": 11,
+          "image": "./gallery/g11.jpeg"
+        },
+        {
+          "id": 12,
+          "image": "./gallery/g12.jpeg"
+        },
+        {
+          "id": 13,
+          "image": "./gallery/g13.jpeg"
+        },
+        {
+          "id": 14,
+          "image": "./gallery/g14.jpeg"
+        },
+        {
+          "id": 15,
+          "image": "./gallery/g15.jpeg"
+        },
+        {
+          "id": 16,
+          "image": "./gallery/g16.jpeg"
+        },
+        {
+          "id": 17,
+          "image": "./gallery/g17.jpeg"
+        },
+        {
+          "id": 18,
+          "image": "./gallery/g18.jpeg"
+        },
+        {
+          "id": 19,
+          "image": "./gallery/g19.jpeg"
+        }
+      ]
+    }
+  ]
+}
